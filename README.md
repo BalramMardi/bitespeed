@@ -62,7 +62,7 @@ This service addresses the challenge of fragmented customer identities. By linki
 
 **1\. Clone the Repository (or Create Files)**
 
-If this were a Git repository, you would clone it. Otherwise, create the project structure and files as previously discussed.
+Clone or Fork this github repository.
 
 **2\. Install Dependencies**
 
